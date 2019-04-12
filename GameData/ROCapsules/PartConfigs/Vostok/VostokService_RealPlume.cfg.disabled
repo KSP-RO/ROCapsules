@@ -4,8 +4,8 @@
     {
         name = Hypergolic-OMS-White
         transformName = thrustTransform
-		flarePosition = 0.0, 0.0, -0.625
-        flareScale =    0.2
+		flarePosition = 0.0, 0.0, -0.16
+        flareScale =    0.3
         plumePosition = 0.0, 0.0, 0.0
         plumeScale =    0.5
         //smokePosition = 0.0, 0.0, 0.75
@@ -15,7 +15,11 @@
         speed = 3.0
         emissionMult = 0.5
     }
-
+	
+    @MODULE[ModuleEngines*]
+    {
+        @name = ModuleEnginesRF
+    }
     @MODULE[ModuleEngineConfigs]
     {
         %type = ModuleEnginesRF

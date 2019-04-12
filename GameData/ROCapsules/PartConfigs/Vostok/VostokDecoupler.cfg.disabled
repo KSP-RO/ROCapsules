@@ -1,7 +1,7 @@
 PART
 {
 	module = Part
-	name = ROC-VostokAntenna
+	name = ROC-VostokDecoupler
 	author = Tantares, Pap
 	
 	RSSROConfig = true
@@ -13,36 +13,43 @@ PART
 	
 	MODEL
 	{
-		model = ROCapsules/Assets/Tantares/Vostok/Vostok_Antenna_1
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_Decoupler_1
 		scale = 1.8491, 1.8491, 1.8491
 	}
 	
 	scale = 1.0
 	rescaleFactor = 1.0
-
+	node_stack_top    = 0.0,  0.1156, 0.0, 0.0, 1.0, 0.0, 0
+	node_stack_bottom = 0.0, -0.1156, 0.0, 0.0, -1.0, 0.0, 1
 	// stack, srfAttach, allowStack, allowSrfAttach, allowCollision
-	attachRules = 0,1,0,0,1
+	attachRules = 1,0,1,1,0
 	
-	bulkheadProfiles = srf
+	bulkheadProfiles = size0, size1
+	
+	fx_gasBurst_white = 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, decouple
+    sound_vent_large = decouple
 		
 	//  ============================================================================
 	//	Title, Description, Category, Techs
 	//  ============================================================================
 	
-	title = (DEPRECATED) Vostok Hoop Antenna
+	title = Vostok Capsule Decoupler
 	manufacturer = OKB-1
-	description = Designed to communicate in LEO, this antenna is very primitive and simple. Maximum range of 1Mm.
+	description = Place this between the Vostok Capsule and the Service Module to decouple the Capsule for reentry.
 	
-	mass = 0.005
+	mass = 0.1
 	
-	category = Communication
+	category = Coupling
 	subcategory = 0
 	
-	tags = vostok, gagarin, soviet, comms, communication, antenna
+	tags = vostok, gagarin, soviet, decoupler, decouple
 	
 	TechRequired = unlockParts
 	cost = 150
 	entryCost = 1
+	
+	stageOffset = 1
+    childStageOffset = 1
 	
 	//  ============================================================================
 	//	Thermo, Durability
@@ -58,40 +65,15 @@ PART
 	//	Modules and Resources
 	//  ============================================================================
 	
-	
+	MODULE
+    {
+        name = ModuleDecouple
+        explosiveNodeID = top
+        ejectionForce = 25
+    }	
 	
 	//  ============================================================================
 	//	Comms
 	//  ============================================================================
 	
-	MODULE:NEEDS[!RemoteTech]
-	{
-		name = ModuleDataTransmitter
-		antennaType = DIRECT
-		packetInterval = 1.0
-		packetSize = 1.0
-		requiredResource = ElectricCharge
-		antennaPower = 400
-		packetResourceCost = 0.004
-	}
-	
-	MODULE:NEEDS[RemoteTech]
-	{
-		name = ModuleSPU
-	}
-	
-	MODULE:NEEDS[RemoteTech]
-    {
-        name = ModuleRTAntennaPassive
-        TechRequired = unlockParts
-
-        OmniRange = 1000000
-
-        TRANSMITTER
-        {
-            PacketInterval = 0.4
-            PacketSize = 0.27
-            PacketResourceCost = 0.025
-        }
-    }
 }

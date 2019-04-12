@@ -1,0 +1,424 @@
+PART
+{
+	module = Part
+	name = ROC-VostokService
+	author = Tantares, Pap
+	
+	RSSROConfig = true
+	RP0conf = true
+	
+	//  ============================================================================
+	//	Model and Dimensions
+	//  ============================================================================
+	
+	MODEL // Electronics
+	{
+		// Dimensions: 0.41 x 1.25 m
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_Avionics_1
+		// RL Dimensions: ?? x 2.3114
+		scale = 1.8491, 1.8491, 1.8491
+		position = 0, 0.5869, 0
+	}
+	MODEL // Engines
+	{
+		// Dimensions: 0.668 x 1.25 m
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_Engine_1
+		// RL Dimensions: ?? x 2.3114
+		scale = 1.8491, 1.8491, 1.8491
+		position = 0, -0.42761, 0
+	}
+	MODEL // 12 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = 0, 0.7632, 1.1592
+	}
+	MODEL // 12.1 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = 0.3822, 0.7632, 1.0828
+	}
+	MODEL // 12.2 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = 0.6910, 0.7632, 0.8710
+	}
+	MODEL // 12.3 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = 0.8961, 0.7632, 0.5446
+	}
+	MODEL // 3 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = 0.9720, 0.7632, 0.18
+	}
+	MODEL // 3.1 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = 0.8991, 0.7632, -0.1846
+	}
+	MODEL // 3.2 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = 0.6803, 0.7632, -0.5006
+	}
+	MODEL // 3.3 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = 0.3644, 0.7632, -0.7089
+	}
+	MODEL // 6 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = 0, 0.7632, -0.7783
+	}
+	MODEL // 6.1 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = -0.3644, 0.7632, -0.7089
+	}
+	MODEL // 6.2 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = -0.6803, 0.7632, -0.5006
+	}
+	MODEL // 6.3 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = -0.8991, 0.7632, -0.1846
+	}
+	MODEL // 9 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = -0.9720, 0.7632, 0.18
+	}
+	MODEL // 9.1 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = -0.8961, 0.7632, 0.5446
+	}
+	MODEL // 9.2 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = -0.6910, 0.7632, 0.8710
+	}
+	MODEL // 9.3 - Helium & Nitrogen Bottles
+	{
+		model = ROCapsules/Assets/Tantares/Vostok/Vostok_FuelSphere_2
+		scale = 1.0, 1.0, 1.0
+		position = -0.3822, 0.7632, 1.0828
+	}
+	
+	scale = 1.0
+	rescaleFactor = 1.0
+	
+	node_stack_top    = -0.000,  0.966,  0.000,  0.000,  1.000,  0.000, 2
+	node_stack_bottom = -0.000, -0.944,  0.000,  0.000, -1.000,  0.000, 1
+	// stack, srfAttach, allowStack, allowSrfAttach, allowCollision
+	attachRules = 1,0,1,1,0
+	
+	bulkheadProfiles = size1
+		
+	//  ============================================================================
+	//	Title, Description, Category, Techs
+	//  ============================================================================
+	
+	title = Vostok Service Module
+	manufacturer = OKB-1
+	description = A service module with batteries a simple engine AK20/Tonka250 engine that has only 1 ignition. You need to attach spherical fuel tanks on top of the service module. NOTE: RCS thrusters and antennas not installed
+	
+	mass = 1.924
+	
+	category = Control
+	subcategory = 0
+	
+	tags = vostok, gagarin, soviet, service, module
+	
+	TechRequired = unlockParts
+	cost = 150
+	entryCost = 1
+	
+	stagingIcon = LIQUID_ENGINE
+	
+	//  ============================================================================
+	//	Thermo, Durability
+	//  ============================================================================
+		
+	crashTolerance = 14
+	maxTemp = 2400
+	skinMaxTemp = 3600
+	
+	//  ============================================================================
+	//	Modules and Resources
+	//  ============================================================================
+	
+	MODULE
+	{
+		name = ModuleFuelTanks
+		type = ServiceModule
+		volume = 700
+		basemass = -1
+		TANK
+		{
+			name = Nitrogen
+			amount = 15987
+			maxAmount = 15987
+		}
+		TANK
+		{
+			name = AK20
+			amount = 45.077
+			maxAmount = 45.077
+		}
+		TANK
+		{
+			name = Tonka250
+			amount = 237.606
+			maxAmount = 237.606
+		}
+		TANK
+		{
+			name = ElectricCharge
+			amount = 107100
+			maxAmount = 107100
+		}
+		TANK
+		{
+			name = Oxygen
+			amount = 23100
+			maxAmount = 23100
+		}
+	}
+	
+	MODULE
+	{
+		name = ModuleCommand
+		minimumCrew = 0
+		RESOURCE
+		{
+			name = ElectricCharge
+			rate = 0.30 // A little more than half the Mercury Capsule
+		}
+	}
+	
+	MODULE
+	{
+		name = ModuleEnginesRF
+		thrustVectorTransformName = thrustTransform
+	}
+	
+	MODULE
+	{
+		name = ModuleEngineConfigs
+		type = ModuleEngines
+		configuration = TDU-S54
+		modded = false
+		
+		CONFIG
+		{
+			name = TDU-S54
+			minThrust = 15.83
+			maxThrust = 15.83
+			heatProduction = 100
+			ignitions = 1
+			ullage = False
+			pressureFed = False
+			
+			PROPELLANT
+			{
+				name = AK20
+				ratio = 0.16
+				DrawGauge = True
+			}
+			PROPELLANT
+			{
+				name = Tonka250
+				ratio = 0.84
+			}
+			atmosphereCurve
+			{
+				key = 0 266
+				key = 1 100
+			}
+		}
+	}	
+	
+	MODULE
+	{
+		name = ModuleSurfaceFX
+		thrustProviderModuleIndex = 0
+		fxMax = 1.0
+		maxDistance = 30
+		falloff = 1.7
+		thrustTransformName = thrustTransform
+	}
+
+  	MODULE
+	{
+		name = ModuleJettison
+		jettisonName = Fairing1
+		bottomNodeName = bottom
+		isFairing = True
+		jettisonedObjectMass = 0.1
+		jettisonForce = 5
+		jettisonDirection = 0 0 1
+	}
+
+
+    MODULE
+    {
+        name = ModuleRCSFX
+        stagingEnabled = False
+        showToggles = false
+        currentShowToggles = false
+
+        enablePitch = true
+        enableYaw = true
+        enableRoll = false
+
+        enableX = false
+        enableY = false
+        enableZ = false
+
+        thrusterTransformName = attitudeTransform
+        thrusterPower = 0.05
+
+        resourceFlowMode = STAGE_PRIORITY_SEARCH
+        runningEffectName = running_attitude
+
+		PROPELLANT
+		{
+			ratio = 1.0
+			name = Nitrogen
+		}
+		
+        atmosphereCurve
+        {
+            key = 0 65
+            key = 1 10
+        }
+    }
+
+    MODULE
+    {
+        name = ModuleRCSFX
+        stagingEnabled = False
+
+        showToggles = false
+
+        currentShowToggles = false
+
+        enablePitch = false
+        enableYaw = false
+        enableRoll = true
+
+        enableX = false
+        enableY = false
+        enableZ = false
+
+        thrusterTransformName = rollTransform
+        thrusterPower = 0.05
+
+        resourceFlowMode = STAGE_PRIORITY_FLOW
+        runningEffectName = running_roll
+
+        PROPELLANT
+		{
+			ratio = 1.0
+			name = Nitrogen
+		}
+		
+        atmosphereCurve
+        {
+            key = 0 65
+            key = 1 10
+        }
+    }
+	
+	MODULE
+	{
+		name = ModuleAvionics
+		massLimit = 10.0
+		interplanetary = False
+	}
+	
+	EFFECTS
+	{
+	    running_attitude
+        {
+			AUDIO_MULTI_POOL
+			{
+				channel = Ship
+				transformName = attitudeTransform
+				clip = sound_rocket_hard
+				volume = 0.0 0.0
+				volume = 0.1 0.0
+				volume = 0.5 0.025
+				volume = 1.0 0.1
+				pitch = 0.0 0.75
+				pitch = 1.0 1.5
+				loop = true
+			}
+			MODEL_MULTI_PARTICLE
+			{
+				modelName = Squad/FX/Monoprop_small
+				transformName = attitudeTransform
+				emission = 0.0 0.0
+				emission = 0.1 0.0
+				emission = 1.0 1.0
+				speed = 0.0 0.8
+				speed = 1.0 1.0
+				localRotation = -90, 0, 0
+			}
+        }
+	    running_roll
+        {
+			AUDIO_MULTI_POOL
+			{
+				channel = Ship
+				transformName = rollTransform
+				clip = sound_rocket_hard
+				volume = 0.0 0.0
+				volume = 0.1 0.0
+				volume = 0.5 0.025
+				volume = 1.0 0.1
+				pitch = 0.0 0.75
+				pitch = 1.0 1.5
+			loop = true
+			}
+			MODEL_MULTI_PARTICLE
+			{
+				modelName = Squad/FX/Monoprop_small
+				transformName = rollTransform
+				emission = 0.0 0.0
+				emission = 0.1 0.0
+				emission = 1.0 1.0
+				speed = 0.0 0.8
+				speed = 1.0 1.0
+				localRotation = -90, 0, 0
+			}
+        }
+	}
+	
+	
+	//  ============================================================================
+	//	Comms
+	//  ============================================================================
+	
+	
+}
