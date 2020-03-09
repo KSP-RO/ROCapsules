@@ -43,7 +43,22 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
   
 * Gemini
-  * 
+  * Gemini Agena Target/Docking Adapter (FASA by Frizztank)
+  * Gemini Antenna (FASA by Frizztank)
+  * Gemini Cabin (FASA by Frizztank)
+  * Gemini Adapter Equipment Section (FASA by Frizztank)
+  * Gemini Flight Pack (FASA by Frizztank)
+  * Gemini Flight Pack Control Surface (FASA by Frizztank)
+  * Gemini Nose Fairing (FASA by Frizztank)
+  * Gemini Rendezvous and Recovery Section Fairing (FASA by Frizztank)
+  * Gemini Aerodynamic Nose Fairing (FASA by Frizztank)
+  * Gemini Recovery Main Parachute (FASA by Frizztank)
+  * Gemini Recovery Drogue Parachute (FASA by Frizztank)
+  * Gemini RCS Thruster Pack (FASA by Frizztank)
+  * Gemini Re-entry Control System (FASA by Frizztank)
+  * Gemini Adapter Retrograde Section (FASA by Frizztank)
+  * Gemini Wings (FASA by Frizztank)
+  * Gemini Wing Control Surface (FASA by Frizztank)
  
 * LEM
   * Apollo LM Ascent Stage (Apollo by DECQ)
