@@ -22,14 +22,14 @@ All the modders that used their time and considerable skills to develop the mode
 
 ## Parts Included
 * Apollo
-  *	Apollo CM (Apollo by DECQ)
-  *	Apollo Drogue Docking Port (Apollo by DECQ)
-  *	Apollo Drogue Parachute Pack (Apollo by DECQ)
+  * Apollo CM (Apollo by DECQ)
+  * Apollo Drogue Docking Port (Apollo by DECQ)
+  * Apollo Drogue Parachute Pack (Apollo by DECQ)
   * Apollo CM Forward Heat Shield (Apollo by DECQ)
   * Apollo High Gain Antenna (HGA) (Apollo by DECQ)
-  *	Apollo Launch Escape System (LES) (Apollo by DECQ)
-  *	Apollo LES Booster Protection Cover (BPC) (Apollo by DECQ)
-  *	Apollo Main Parachute Pack (Apollo by DECQ)
+  * Apollo Launch Escape System (LES) (Apollo by DECQ)
+  * Apollo LES Booster Protection Cover (BPC) (Apollo by DECQ)
+  * Apollo Main Parachute Pack (Apollo by DECQ)
   * Apollo Service Module RCS Block (Apollo by DECQ)
   * Apollo Service Module (SM) (Apollo by DECQ)
   * Apollo Docking Mechanism Probe (Bluedog Design by CobaltWolf)
@@ -67,7 +67,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo LM Descent Engine (Apollo by DECQ)
   * Apollo Lunar Roving Vehicle (LRV) (Apollo by DECQ)
   
- * Mercury
+* Mercury
   * Mercury-Atlas Adapter (FASA by Frizzank)
   * Mercury-Redstone Adapter (FASA by Frizzank)
   * Mercury Command Pod (FASA by Frizzank)
@@ -79,7 +79,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Mercury Retro Solid Rocket Pack (FASA by Frizzank)
   * Mercury Retro Strap & Decoupler (FASA by Frizzank)
   
- * Vostok/Voskhod
+* Vostok/Voskhod
   * Voskhod Airlock (Soviet Spacecraft by RaiderNick)
   * Voskhod Descent Module (Soviet Spacecraft by RaiderNick)
   * Voskhod Retro Package (Soviet Spacecraft by RaiderNick)
@@ -89,6 +89,18 @@ All the modders that used their time and considerable skills to develop the mode
   * Vostok/Voskhod Parachute (Soviet Spacecraft by RaiderNick)
   * Vostok/Voskhod Service Module (Soviet Spacecraft by RaiderNick)
   
+* Orion
+  * Orion Crew Module (SLS by DECQ)
+  * Orion European Service Module (SLS by DECQ)
+  * Orion European Service Module Fairing (SLS by DECQ)
+  * Orion Decoupler (SLS by DECQ)
+  * Orion Forward Heatshield and NASA Docking System (SLS by DECQ)
+  * Orion Heatshield (SLS by DECQ)
+  * Orion Launch Abort System (SLS by DECQ)
+  * Orion Main Parachute (SLS by DECQ)
+  * Orion RCS (SLS by DECQ)
+  * Orion European Service Module Solar Panels (SLS by DECQ)
+
 * Other
   * APAS 89/95 Active Docking Port (Bluedog Design by CobaltWolf)
   * APAS 89/95 Passive Docking Port (Bluedog Design by CobaltWolf)
