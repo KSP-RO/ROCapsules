@@ -43,7 +43,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
   
 * Gemini
-  * Gemini Agena Target/Docking Adapter (FASA by Frizzank)
+  * Gemini Agena Target Vehicle Docking Port (Bluedog Design by CobaltWolf)
   * Gemini Antenna (FASA by Frizzank)
   * Gemini Cabin (FASA by Frizzank)
   * Gemini Adapter Equipment Section (FASA by Frizzank)
