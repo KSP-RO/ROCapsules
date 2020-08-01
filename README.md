@@ -18,6 +18,7 @@ All the modders that used their time and considerable skills to develop the mode
 * Module Manager
 * Realism Overhaul
 * B9PartSwitch
+* KSPWheel (required for Dynasoar)
 * **[ROLibrary][link:ROLib]**
 
 ## Parts Included
@@ -41,6 +42,24 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo Block III+ Mission Module (Bluedog Design by CobaltWolf)
   * Apollo Block IV Mission Module (Bluedog Design by CobaltWolf)
   * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
+  
+* Dynasoar
+  * Dynasoar Body (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Left Wing (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Right Wing (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Left Elevon (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Right Elevon (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Front Skid (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Rear Skid (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Cargo Bay (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Fuel Tank (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Cabin (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Aft Bay (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Telemetery Antenna (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Docking Arm (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Docking Rod (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Drag Chute (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Adpater (LonesomeRobots Aerospace by SilentVelcro)
   
 * Gemini
   * Gemini Agena Target Vehicle Docking Port (Bluedog Design by CobaltWolf)
@@ -82,16 +101,6 @@ All the modders that used their time and considerable skills to develop the mode
   * Mercury Retro Solid Rocket Pack (FASA by Frizzank)
   * Mercury Retro Strap & Decoupler (FASA by Frizzank)
   
-* Vostok/Voskhod
-  * Voskhod Airlock (Soviet Spacecraft by RaiderNick)
-  * Voskhod Descent Module (Soviet Spacecraft by RaiderNick)
-  * Voskhod Retro Package (Soviet Spacecraft by RaiderNick)
-  * Voskhod Retro Decoupler (Soviet Spacecraft by RaiderNick)
-  * Vostok Descent Module (Soviet Spacecraft by RaiderNick)
-  * Vostok/Voskhod Decoupler (Soviet Spacecraft by RaiderNick)
-  * Vostok/Voskhod Parachute (Soviet Spacecraft by RaiderNick)
-  * Vostok/Voskhod Service Module (Soviet Spacecraft by RaiderNick)
-  
 * Orion
   * Orion Crew Module (SLS by DECQ)
   * Orion European Service Module (SLS by DECQ)
@@ -103,7 +112,17 @@ All the modders that used their time and considerable skills to develop the mode
   * Orion Main Parachute (SLS by DECQ)
   * Orion RCS (SLS by DECQ)
   * Orion European Service Module Solar Panels (SLS by DECQ)
-
+  
+* Vostok/Voskhod
+  * Voskhod Airlock (Soviet Spacecraft by RaiderNick)
+  * Voskhod Descent Module (Soviet Spacecraft by RaiderNick)
+  * Voskhod Retro Package (Soviet Spacecraft by RaiderNick)
+  * Voskhod Retro Decoupler (Soviet Spacecraft by RaiderNick)
+  * Vostok Descent Module (Soviet Spacecraft by RaiderNick)
+  * Vostok/Voskhod Decoupler (Soviet Spacecraft by RaiderNick)
+  * Vostok/Voskhod Parachute (Soviet Spacecraft by RaiderNick)
+  * Vostok/Voskhod Service Module (Soviet Spacecraft by RaiderNick)
+  
 * Other
   * APAS 89/95 Active Docking Port (Bluedog Design by CobaltWolf)
   * APAS 89/95 Passive Docking Port (Bluedog Design by CobaltWolf)
