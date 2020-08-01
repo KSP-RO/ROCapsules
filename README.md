@@ -82,6 +82,15 @@ All the modders that used their time and considerable skills to develop the mode
   * Gemini B Adapter Retrograde Section (Bluedog Design by CobaltWolf)
   * Gemini B Equipment Section (Bluedog Design by CobaltWolf)
  
+* Big Gemini
+  * Big Gemini Cabin (Bluedog Design by CobaltWolf)
+  * Big Gemini Decoupler (Bluedog Design by CobaltWolf)
+  * Big Gemini Docking Adpater (Bluedog Design by CobaltWolf)
+  * Big Gemini Heatshield (Bluedog Design by CobaltWolf)
+  * Big Gemini LES (Bluedog Design by CobaltWolf)
+  * Big Gemini MOL Docking Port (Bluedog Design by CobaltWolf)
+  * Big Gemini Service Module (Bluedog Design by CobaltWolf)
+  
 * LEM
   * Apollo LM Ascent Stage (Apollo by DECQ)
   * Apollo LM Decoupler (Apollo by DECQ)
