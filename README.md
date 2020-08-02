@@ -122,6 +122,14 @@ All the modders that used their time and considerable skills to develop the mode
   * Orion RCS (SLS by DECQ)
   * Orion European Service Module Solar Panels (SLS by DECQ)
   
+* CST-100 Starliner
+  * CST-100 Crew Module (CST-100 by Hanson Ma)
+  * CST-100 Heat Shield (CST-100 by Hanson Ma)
+  * CST-100 Parachute Pack (CST-100 by Hanson Ma)
+  * CST-100 Nose Cone (CST-100 by Hanson Ma)
+  * CST-100 Launch Abort Engines (LAE) (CST-100 by Hanson Ma)
+  * CST-100 Service Module (CST-100 by Hanson Ma)
+
 * Vostok/Voskhod
   * Voskhod Airlock (Soviet Spacecraft by RaiderNick)
   * Voskhod Descent Module (Soviet Spacecraft by RaiderNick)
@@ -131,7 +139,10 @@ All the modders that used their time and considerable skills to develop the mode
   * Vostok/Voskhod Decoupler (Soviet Spacecraft by RaiderNick)
   * Vostok/Voskhod Parachute (Soviet Spacecraft by RaiderNick)
   * Vostok/Voskhod Service Module (Soviet Spacecraft by RaiderNick)
-  
+
 * Other
   * APAS 89/95 Active Docking Port (Bluedog Design by CobaltWolf)
   * APAS 89/95 Passive Docking Port (Bluedog Design by CobaltWolf)
+  * NASA Docking System (Active) (CST-100 by Hanson Ma)
+  * NASA Docking System (Passive) (CST-100 by Hanson Ma)
+  
