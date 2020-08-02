@@ -18,6 +18,7 @@ All the modders that used their time and considerable skills to develop the mode
 * Module Manager
 * Realism Overhaul
 * B9PartSwitch
+* KSPWheel (required for Dynasoar)
 * **[ROLibrary][link:ROLib]**
 
 ## Parts Included
@@ -42,24 +43,54 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo Block IV Mission Module (Bluedog Design by CobaltWolf)
   * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
   
+* Dynasoar
+  * Dynasoar Body (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Left Wing (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Right Wing (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Left Elevon (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Right Elevon (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Front Skid (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Rear Skid (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Cargo Bay (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Fuel Tank (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Cabin (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Aft Bay (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Telemetery Antenna (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Docking Arm (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Docking Rod (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Drag Chute (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Adpater (LonesomeRobots Aerospace by SilentVelcro)
+  
 * Gemini
   * Gemini Agena Target Vehicle Docking Port (Bluedog Design by CobaltWolf)
   * Gemini Antenna (FASA by Frizzank)
-  * Gemini Cabin (FASA by Frizzank)
-  * Gemini Adapter Equipment Section (FASA by Frizzank)
+  * Gemini UHF Antenna (Bluedog Design by CobaltWolf)
+  * Gemini Cabin (Bluedog Design by CobaltWolf)
+  * Gemini Adapter Equipment Section (Bluedog Design by CobaltWolf)
   * Gemini Flight Pack (FASA by Frizzank)
   * Gemini Flight Pack Control Surface (FASA by Frizzank)
-  * Gemini Nose Fairing (FASA by Frizzank)
-  * Gemini Rendezvous and Recovery Section Fairing (FASA by Frizzank)
-  * Gemini Aerodynamic Nose Fairing (FASA by Frizzank)
-  * Gemini Recovery Main Parachute (FASA by Frizzank)
-  * Gemini Recovery Drogue Parachute (FASA by Frizzank)
-  * Gemini RCS Thruster Pack (FASA by Frizzank)
-  * Gemini Re-entry Control System (FASA by Frizzank)
-  * Gemini Adapter Retrograde Section (FASA by Frizzank)
+  * Gemini Nose Fairing (Bluedog Design by CobaltWolf)
+  * Gemini Rendezvous and Recovery Section Fairing (Bluedog Design by CobaltWolf)
+  * Gemini Aerodynamic Nose Fairing (Bluedog Design by CobaltWolf)
+  * Gemini Recovery Main Parachute (Bluedog Design by CobaltWolf)
+  * Gemini Recovery Drogue Parachute (Bluedog Design by CobaltWolf)
+  * Gemini OAMS Thruster Pack (Bluedog Design by CobaltWolf)
+  * Gemini Re-entry Control System (Bluedog Design by CobaltWolf)
+  * Gemini Adapter Retrograde Section (Bluedog Design by CobaltWolf)
   * Gemini Wings (FASA by Frizzank)
   * Gemini Wing Control Surface (FASA by Frizzank)
+  * Gemini B Adapter Retrograde Section (Bluedog Design by CobaltWolf)
+  * Gemini B Equipment Section (Bluedog Design by CobaltWolf)
  
+* Big Gemini
+  * Big Gemini Cabin (Bluedog Design by CobaltWolf)
+  * Big Gemini Decoupler (Bluedog Design by CobaltWolf)
+  * Big Gemini Docking Adpater (Bluedog Design by CobaltWolf)
+  * Big Gemini Heatshield (Bluedog Design by CobaltWolf)
+  * Big Gemini LES (Bluedog Design by CobaltWolf)
+  * Big Gemini MOL Docking Port (Bluedog Design by CobaltWolf)
+  * Big Gemini Service Module (Bluedog Design by CobaltWolf)
+  
 * LEM
   * Apollo LM Ascent Stage (Apollo by DECQ)
   * Apollo LM Decoupler (Apollo by DECQ)
@@ -79,16 +110,6 @@ All the modders that used their time and considerable skills to develop the mode
   * Mercury Retro Solid Rocket Pack (FASA by Frizzank)
   * Mercury Retro Strap & Decoupler (FASA by Frizzank)
   
-* Vostok/Voskhod
-  * Voskhod Airlock (Soviet Spacecraft by RaiderNick)
-  * Voskhod Descent Module (Soviet Spacecraft by RaiderNick)
-  * Voskhod Retro Package (Soviet Spacecraft by RaiderNick)
-  * Voskhod Retro Decoupler (Soviet Spacecraft by RaiderNick)
-  * Vostok Descent Module (Soviet Spacecraft by RaiderNick)
-  * Vostok/Voskhod Decoupler (Soviet Spacecraft by RaiderNick)
-  * Vostok/Voskhod Parachute (Soviet Spacecraft by RaiderNick)
-  * Vostok/Voskhod Service Module (Soviet Spacecraft by RaiderNick)
-  
 * Orion
   * Orion Crew Module (SLS by DECQ)
   * Orion European Service Module (SLS by DECQ)
@@ -100,7 +121,28 @@ All the modders that used their time and considerable skills to develop the mode
   * Orion Main Parachute (SLS by DECQ)
   * Orion RCS (SLS by DECQ)
   * Orion European Service Module Solar Panels (SLS by DECQ)
+  
+* CST-100 Starliner
+  * CST-100 Crew Module (CST-100 by Hanson Ma)
+  * CST-100 Heat Shield (CST-100 by Hanson Ma)
+  * CST-100 Parachute Pack (CST-100 by Hanson Ma)
+  * CST-100 Nose Cone (CST-100 by Hanson Ma)
+  * CST-100 Launch Abort Engines (LAE) (CST-100 by Hanson Ma)
+  * CST-100 Service Module (CST-100 by Hanson Ma)
+
+* Vostok/Voskhod
+  * Voskhod Airlock (Soviet Spacecraft by RaiderNick)
+  * Voskhod Descent Module (Soviet Spacecraft by RaiderNick)
+  * Voskhod Retro Package (Soviet Spacecraft by RaiderNick)
+  * Voskhod Retro Decoupler (Soviet Spacecraft by RaiderNick)
+  * Vostok Descent Module (Soviet Spacecraft by RaiderNick)
+  * Vostok/Voskhod Decoupler (Soviet Spacecraft by RaiderNick)
+  * Vostok/Voskhod Parachute (Soviet Spacecraft by RaiderNick)
+  * Vostok/Voskhod Service Module (Soviet Spacecraft by RaiderNick)
 
 * Other
   * APAS 89/95 Active Docking Port (Bluedog Design by CobaltWolf)
   * APAS 89/95 Passive Docking Port (Bluedog Design by CobaltWolf)
+  * NASA Docking System (Active) (CST-100 by Hanson Ma)
+  * NASA Docking System (Passive) (CST-100 by Hanson Ma)
+  
