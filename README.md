@@ -121,6 +121,31 @@ All the modders that used their time and considerable skills to develop the mode
   * Orion Main Parachute (SLS by DECQ)
   * Orion RCS (SLS by DECQ)
   * Orion European Service Module Solar Panels (SLS by DECQ)
+
+* Dragon Crew
+  * Dragon Crew Parachute Pack (SpaceX Pack by Kartoffelkuchen)
+  * Dragon Crew Crew Module Pack (SpaceX Pack by Kartoffelkuchen)
+  * Dragon Crew Internals Pack (SpaceX Pack by Kartoffelkuchen, Mesh Edits by Vader111)
+  * Dragon Crew Covers (SpaceX Pack by Kartoffelkuchen)
+  * Dragon Crew Docking Port (SpaceX Pack by Kartoffelkuchen, Mesh Edits by Vader111)
+  * Dragon Crew Heat Shield (SpaceX Pack by Kartoffelkuchen)
+  * Dragon Crew Service Module (SpaceX Pack by Kartoffelkuchen)
+
+* Dragon Cargo
+  * Dragon Cargo Adapter (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Nosecone (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Crew Module Pack (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Docking Port (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Heat Shield (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Solar Cover (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Service Module (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Solar Panels (Phoenix Industries by MoviesColin)
+  * Dragon Cargo Parachute (KerbalX Pack by DECQ, Mesh Edits by Vader111)
+
+* Dragon Cargo XL
+  * Dragon Cargo XL Crew Module Pack (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Dragon Cargo XL Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Dragon Cargo XL Solar Panels (Phoenix Industries by MoviesColin)
   
 * CST-100 Starliner
   * CST-100 Crew Module (CST-100 by Hanson Ma)
