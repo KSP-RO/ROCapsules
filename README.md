@@ -37,10 +37,12 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo Block III+ Command Module (CM) (Apollo by DECQ)
   * Apollo Command/Service Module Decoupler (Bluedog Design by CobaltWolf)
   * Apollo Block III Service Engine (LMAE) (Bluedog Design by CobaltWolf)
+  * Apollo Block V Service Engine (TR-201) (Bluedog Design by CobaltWolf)
   * Apollo Block III High Gain Antenna (Bluedog Design by CobaltWolf)
   * Apollo Block V High Gain Antenna (Bluedog Design by CobaltWolf)
   * Apollo Block III+ Mission Module (Bluedog Design by CobaltWolf)
   * Apollo Block IV Mission Module (Bluedog Design by CobaltWolf)
+  * Apollo Block III+ Service Module (Bluedog Design by CobaltWolf)
   * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
   
 * Dynasoar
@@ -122,7 +124,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Orion RCS (SLS by DECQ)
   * Orion European Service Module Solar Panels (SLS by DECQ)
 
-* Dragon Crew
+* Dragon Crew (With Permission from Kartoffelkuchen)
   * Dragon Crew Parachute Pack (SpaceX Pack by Kartoffelkuchen)
   * Dragon Crew Crew Module Pack (SpaceX Pack by Kartoffelkuchen)
   * Dragon Crew Internals Pack (SpaceX Pack by Kartoffelkuchen, Mesh Edits by Vader111)
@@ -146,12 +148,18 @@ All the modders that used their time and considerable skills to develop the mode
   * Dragon Cargo XL Crew Module Pack (Mesh by Stanley Creative, Mesh Edits by Vader111)
   * Dragon Cargo XL Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
   * Dragon Cargo XL Solar Panels (Phoenix Industries by MoviesColin)
+
+* Starship Lunar
+  * Starship Lunar Spacecraft Command Module (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Starship Lunar Fuel Tank (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Starship Lunar Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Starship Lunar Interior (Trash Hopefully Placeholder Mesh by Vader111)
   
 * CST-100 Starliner
   * CST-100 Crew Module (CST-100 by Hanson Ma)
   * CST-100 Heat Shield (CST-100 by Hanson Ma)
   * CST-100 Parachute Pack (CST-100 by Hanson Ma)
-  * CST-100 Nose Cone (CST-100 by Hanson Ma)
+  * CST-100 Nose Cone (CST-100 by Hanson Ma, Mesh Edits by Vader111)
   * CST-100 Launch Abort Engines (LAE) (CST-100 by Hanson Ma)
   * CST-100 Service Module (CST-100 by Hanson Ma)
 
