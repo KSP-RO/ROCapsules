@@ -140,6 +140,20 @@ All the modders that used their time and considerable skills to develop the mode
   * Vostok/Voskhod Parachute (Soviet Spacecraft by RaiderNick)
   * Vostok/Voskhod Service Module (Soviet Spacecraft by RaiderNick)
 
+* Soyuz MS
+  * Soyuz MS Antenna (Soyuz MS by DECQ)
+  * Soyuz MS Capsule (Soyuz MS by DECQ)
+  * Soyuz MS Decoupler (Soyuz MS by DECQ)
+  * Soyuz MS Docking Port (Soyuz MS by DECQ)
+  * Soyuz MS Heat Shield (Soyuz MS by DECQ)
+  * Soyuz MS Internal (Soyuz MS by DECQ)
+  * Soyuz MS Orbital Module (Soyuz MS by DECQ)
+  * Soyuz MS Parachute Main (Soyuz MS by DECQ)
+  * Soyuz MS Parachute Spare (Soyuz MS by DECQ)
+  * Soyuz MS Periscope (Soyuz MS by DECQ)
+  * Soyuz MS Service Module (Soyuz MS by DECQ)
+  * Soyuz MS Solar Panel (Soyuz MS by DECQ)
+
 * Other
   * APAS 89/95 Active Docking Port (Bluedog Design by CobaltWolf)
   * APAS 89/95 Passive Docking Port (Bluedog Design by CobaltWolf)
