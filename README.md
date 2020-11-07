@@ -121,7 +121,42 @@ All the modders that used their time and considerable skills to develop the mode
   * Orion Main Parachute (SLS by DECQ)
   * Orion RCS (SLS by DECQ)
   * Orion European Service Module Solar Panels (SLS by DECQ)
-  
+
+* Dragon 2 Crew (With Permission from Kartoffelkuchen)
+  * Dragon Crew Parachute Pack (SpaceX Pack by Kartoffelkuchen)
+  * Dragon Crew Crew Module Pack (SpaceX Pack by Kartoffelkuchen)
+  * Dragon Crew Internals Pack (SpaceX Pack by Kartoffelkuchen, Mesh Edits by Vader111)
+  * Dragon Crew Covers (SpaceX Pack by Kartoffelkuchen)
+  * Dragon Crew Docking Port (SpaceX Pack by Kartoffelkuchen, Mesh Edits by Vader111)
+  * Dragon Crew Heat Shield (SpaceX Pack by Kartoffelkuchen)
+  * Dragon Crew Service Module (SpaceX Pack by Kartoffelkuchen)
+
+* Dragon 2 Cargo (With Permission from Kartoffelkuchen)
+  * Dragon 2 Cargo Cargo Module Pack (SpaceX Pack by Kartoffelkuchen)
+  * Dragon 2 Cargo Service Module (SpaceX Pack by Kartoffelkuchen)
+
+* Dragon 1 Cargo
+  * Dragon Cargo Adapter (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Nosecone (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Crew Module Pack (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Docking Port (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Heat Shield (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Solar Cover (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Service Module (Phoenix Industries by MoviesColin, Mesh Edits by Vader111)
+  * Dragon Cargo Solar Panels (Phoenix Industries by MoviesColin)
+  * Dragon Cargo Parachute (KerbalX Pack by DECQ, Mesh Edits by Vader111)
+
+* Dragon Cargo XL
+  * Dragon Cargo XL Crew Module Pack (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Dragon Cargo XL Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Dragon Cargo XL Solar Panels (Phoenix Industries by MoviesColin)
+
+* Starship Lunar
+  * Starship Lunar Spacecraft Command Module (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Starship Lunar Fuel Tank (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Starship Lunar Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Starship Lunar Interior (Trash Hopefully Placeholder Mesh by Vader111)
+
 * CST-100 Starliner
   * CST-100 Crew Module (CST-100 by Hanson Ma)
   * CST-100 Heat Shield (CST-100 by Hanson Ma)
@@ -145,4 +180,6 @@ All the modders that used their time and considerable skills to develop the mode
   * APAS 89/95 Passive Docking Port (Bluedog Design by CobaltWolf)
   * NASA Docking System (Active) (CST-100 by Hanson Ma)
   * NASA Docking System (Passive) (CST-100 by Hanson Ma)
-  
+
+* Plugins
+  * HabUtils.dll Under MIT license (StationPartsExpansionRedux by Chris Adderley)
