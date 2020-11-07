@@ -37,9 +37,11 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo Block III+ Command Module (CM) (Apollo by DECQ)
   * Apollo Command/Service Module Decoupler (Bluedog Design by CobaltWolf)
   * Apollo Block III Service Engine (LMAE) (Bluedog Design by CobaltWolf)
+  * Apollo Block V Service Engine (TR-201) (Bluedog Design by CobaltWolf)
   * Apollo Block III High Gain Antenna (Bluedog Design by CobaltWolf)
   * Apollo Block V High Gain Antenna (Bluedog Design by CobaltWolf)
   * Apollo Block III+ Mission Module (Bluedog Design by CobaltWolf)
+  * Apollo Block III+ Service Module (Bluedog Design by CobaltWolf)
   * Apollo Block IV Mission Module (Bluedog Design by CobaltWolf)
   * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
   
