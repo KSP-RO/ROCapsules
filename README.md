@@ -123,10 +123,10 @@ All the modders that used their time and considerable skills to develop the mode
   * Orion European Service Module Solar Panels (SLS by DECQ)
   
 * CST-100 Starliner
-  * CST-100 Crew Module (CST-100 by Hanson Ma)
+  * CST-100 Crew Module (CST-100 by Hanson Ma, Mesh Edits by Vader111)
   * CST-100 Heat Shield (CST-100 by Hanson Ma)
   * CST-100 Parachute Pack (CST-100 by Hanson Ma)
-  * CST-100 Nose Cone (CST-100 by Hanson Ma)
+  * CST-100 Nose Cone (CST-100 by Hanson Ma, Mesh Edits by Vader111)
   * CST-100 Launch Abort Engines (LAE) (CST-100 by Hanson Ma)
   * CST-100 Service Module (CST-100 by Hanson Ma)
 
