@@ -1,0 +1,20 @@
+﻿                          [#ffcc00]Radar altitude
+[sub]70km[/sub]                        [#ffff00]ASL altitude
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  [@x10][sub]0[/sub]
+    [sup]T-700        seconds           T[/sup]
+ MET: {0:KDTyy:ddd:hh:mm:ss.f} $&$ METSECS

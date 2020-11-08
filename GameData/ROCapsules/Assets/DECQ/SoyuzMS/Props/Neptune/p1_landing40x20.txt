@@ -1,0 +1,20 @@
+-- Asc/Des Mode --- Body: {0} ---------------------$&$ORBITBODY
+R.Alt {0:SIP_6.3}m            Roll: {1,7:0.00}° $&$RADARALT ROLL
+V.Spd {0:SIP_6.3}m/s          Pitch:{1,7:0.00}° $&$VERTSPEED PITCH
+H.Spd {0:SIP_6.3}m/s          Hdg:  {1,7:0.00}° $&$HORZVELOCITY HEADING
+TWR:{0,4:0.00}/{1,4:0.0}       Thr:{2,6:0.00}/{3,6:0.0}kN $&$TWR TWRMAX THRUST THRUSTMAX
+
+
+
+
+
+
+
+
+
+
+{0:"                 Slope: "0.0°;                                        } $&$ SLOPEANGLE
+  Lat:{0:DMSdd+mm+ss+N}      Lon:{1:DMSdd+mm+ss+E}$&$LATITUDE LONGITUDE
+{2:;"                                        ";""}T.Lat:{0:DMSdd+mm+ss+N}    T.Lon:{1:DMSdd+mm+ss+E}$&$LATITUDETGT LONGITUDETGT TARGETEXISTS
+{1:"Ascent                                   ";"!Descent! ";""}  {0:;                                    }Est. {0:KDTMM:ss.f}s $&$TIMETOIMPACTSECS VERTSPEED
+SAS:{0,-3:"On";0;Off}| RCS:{1,-3:"On";0;Off}/{2:####.##;;"!Empty!"}| LF:{3:#####.##;;"!Empty!"}$&$ SAS RCS MONOPROP FUEL
