@@ -141,7 +141,6 @@ All the modders that used their time and considerable skills to develop the mode
   * Vostok/Voskhod Service Module (Soviet Spacecraft by RaiderNick)
 
 * Soyuz TM/TMA/MS
-  * Soyuz TM/TMA/MS Antenna (Soyuz by DECQ)
   * Soyuz TM/TMA/MS Capsule (Soyuz by DECQ)
   * Soyuz TM/TMA/MS Decoupler (Soyuz by DECQ)
   * Soyuz TM/TMA/MS Docking Port (Soyuz by DECQ)
