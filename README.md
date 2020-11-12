@@ -42,7 +42,30 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo Block III+ Mission Module (Bluedog Design by CobaltWolf)
   * Apollo Block IV Mission Module (Bluedog Design by CobaltWolf)
   * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
-  
+
+* GE Apollo D2
+  * GE Apollo D2 Heatshield Adapter (AlternateApollo by Mcdouble)
+  * GE Apollo D2 AJ10-133-LH (Bluedog Design by CobaltWolf)
+  * GE Apollo D2 High Gain Antenna HGA (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Block I Abort Motor (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Block I Abort Motor Decoupler (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Block II Abort Motor (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Nose Cone (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Descent Module (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Drogue Docking Port (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Docking Probe (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Interstage 1 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Interstage 2 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Interstage 3 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Mission Module 1 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Mission Module 2 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Parachute Pack (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Service Module RCS Block (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Service Module (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Skirt Section 1 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Skirt Section 2 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Solar Array (AlternateApollo by Mcdouble)
+
 * Dynasoar
   * Dynasoar Body (LonesomeRobots Aerospace by SilentVelcro)
   * Dynasoar Left Wing (LonesomeRobots Aerospace by SilentVelcro)
