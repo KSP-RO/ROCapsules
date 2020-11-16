@@ -45,7 +45,7 @@ All the modders that used their time and considerable skills to develop the mode
 
 * GE Apollo D2
   * GE Apollo D2 Heatshield Adapter (AlternateApollo by Mcdouble)
-  * GE Apollo D2 AJ10-133-LH (Bluedog Design by CobaltWolf)
+  * GE Apollo D2 AJ10-133-LH (AlternateApollo by Mcdouble, Mesh Edits by Vader111)
   * GE Apollo D2 High Gain Antenna HGA (AlternateApollo by Mcdouble)
   * GE Apollo D2 Block I Abort Motor (AlternateApollo by Mcdouble)
   * GE Apollo D2 Block I Abort Motor Decoupler (AlternateApollo by Mcdouble)
