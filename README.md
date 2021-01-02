@@ -35,6 +35,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo Service Module (SM) (Apollo by DECQ)
   * Apollo Docking Mechanism Probe (Bluedog Design by CobaltWolf)
   * Apollo Block III+ Command Module (CM) (Apollo by DECQ)
+  * Apollo Block III+ Command Module Heat Shield (CM) (Apollo by DECQ)
   * Apollo Command/Service Module Decoupler (Bluedog Design by CobaltWolf)
   * Apollo Block III Service Engine (LMAE) (Bluedog Design by CobaltWolf)
   * Apollo Block V Service Engine (TR-201) (Bluedog Design by CobaltWolf)
