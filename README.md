@@ -24,7 +24,6 @@ All the modders that used their time and considerable skills to develop the mode
 ## Parts Included
 * Apollo
   * Apollo CM (Apollo by DECQ)
-  * Apollo CM Heat Shield (Apollo by DECQ)
   * Apollo Drogue Docking Port (Apollo by DECQ)
   * Apollo Drogue Parachute Pack (Apollo by DECQ)
   * Apollo CM Forward Heat Shield (Apollo by DECQ)
