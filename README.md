@@ -148,4 +148,14 @@ All the modders that used their time and considerable skills to develop the mode
   * APAS 89/95 Passive Docking Port (Bluedog Design by CobaltWolf)
   * NASA Docking System (Active) (CST-100 by Hanson Ma)
   * NASA Docking System (Passive) (CST-100 by Hanson Ma)
-  
+
+* Dragon Cargo XL
+  * Dragon Cargo XL Crew Module Pack (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Dragon Cargo XL Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Dragon Cargo XL Solar Panels (Phoenix Industries by MoviesColin)
+
+* Starship Lunar
+  * Starship Lunar Spacecraft Command Module (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Starship Lunar Fuel Tank (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Starship Lunar Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
+  * Starship Lunar Interior (Trash Hopefully Placeholder Mesh by Vader111)
