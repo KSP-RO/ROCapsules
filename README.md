@@ -153,9 +153,3 @@ All the modders that used their time and considerable skills to develop the mode
   * Dragon Cargo XL Crew Module Pack (Mesh by Stanley Creative, Mesh Edits by Vader111)
   * Dragon Cargo XL Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
   * Dragon Cargo XL Solar Panels (Phoenix Industries by MoviesColin)
-
-* Starship Lunar
-  * Starship Lunar Spacecraft Command Module (Mesh by Stanley Creative, Mesh Edits by Vader111)
-  * Starship Lunar Fuel Tank (Mesh by Stanley Creative, Mesh Edits by Vader111)
-  * Starship Lunar Docking Port (Mesh by Stanley Creative, Mesh Edits by Vader111)
-  * Starship Lunar Interior (Trash Hopefully Placeholder Mesh by Vader111)
