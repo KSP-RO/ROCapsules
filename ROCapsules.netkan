@@ -11,18 +11,19 @@
     "release_status" : "stable",
     "depends" : [
         { "name" : "RealismOverhaul" },
-		{ "name" : "TexturesUnlimited" },
-        { "name" : "BDAnimationModules" }
+        { "name" : "TexturesUnlimited" },
+        { "name" : "BDAnimationModules" },
+        { "name" : "B9PartSwitch" }
     ],
     "recommends" : [
-		{ "name" : "ROEngines" },
-		{ "name" : "ROTanks" },
+        { "name" : "ROEngines" },
+        { "name" : "ROTanks" },
         { "name" : "ProceduralFairings" },
         { "name" : "ProceduralParts" },
         { "name" : "MechJeb2" },
         { "name" : "RealSolarSystem" },
         { "name" : "KSCSwitcher" },
-		{ "name" : "RP-0" }
+        { "name" : "RP-0" }
     ],
     "conflicts" :   [
         { "name" : "TweakableEverything" }
