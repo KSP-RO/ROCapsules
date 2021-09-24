@@ -19,7 +19,7 @@ All the modders that used their time and considerable skills to develop the mode
 * Realism Overhaul
 * B9PartSwitch
 * KSPWheel (required for Dynasoar)
-* **[ROLibrary][link:ROLib]**
+* **[ROLibrary](https://github.com/KSP-RO/ROLibrary)**
 
 ## Parts Included
 * Apollo
