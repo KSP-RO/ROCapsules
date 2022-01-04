@@ -19,6 +19,7 @@ All the modders that used their time and considerable skills to develop the mode
 * Realism Overhaul
 * B9PartSwitch
 * KSPWheel (required for Dynasoar)
+* ModuleDepthMask (required for Gemini)
 * **[ROLibrary](https://github.com/KSP-RO/ROLibrary)**
 
 ## Parts Included
@@ -85,7 +86,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Dynasoar Telemetery Antenna (LonesomeRobots Aerospace by SilentVelcro)
   * Dynasoar Docking Arm (LonesomeRobots Aerospace by SilentVelcro)
   * Dynasoar Docking Rod (LonesomeRobots Aerospace by SilentVelcro)
-  
+
 * Gemini
   * Gemini Agena Target Vehicle Docking Port (Bluedog Design by CobaltWolf)
   * Gemini Antenna (FASA by Frizzank)
@@ -106,7 +107,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Gemini Wing Control Surface (FASA by Frizzank)
   * Gemini B Adapter Retrograde Section (Bluedog Design by CobaltWolf)
   * Gemini B Equipment Section (Bluedog Design by CobaltWolf)
- 
+
 * Big Gemini
   * Big Gemini Cabin (Bluedog Design by CobaltWolf)
   * Big Gemini Decoupler (Bluedog Design by CobaltWolf)
@@ -115,14 +116,14 @@ All the modders that used their time and considerable skills to develop the mode
   * Big Gemini LES (Bluedog Design by CobaltWolf)
   * Big Gemini MOL Docking Port (Bluedog Design by CobaltWolf)
   * Big Gemini Service Module (Bluedog Design by CobaltWolf)
-  
+
 * LEM
   * Apollo LM Ascent Stage (Apollo by DECQ)
   * Apollo LM Decoupler (Apollo by DECQ)
   * Apollo LM Descent Stage (Apollo by DECQ)
   * Apollo LM Descent Engine (Apollo by DECQ)
   * Apollo Lunar Roving Vehicle (LRV) (Apollo by DECQ)
-  
+
 * Mercury
   * Mercury-Atlas Adapter (FASA by Frizzank)
   * Mercury-Redstone Adapter (FASA by Frizzank)
@@ -134,7 +135,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Mercury RCS Roll Thrusters (FASA by Frizzank)
   * Mercury Retro Solid Rocket Pack (FASA by Frizzank)
   * Mercury Retro Strap & Decoupler (FASA by Frizzank)
-  
+
 * Orion
   * Orion Crew Module (SLS by DECQ)
   * Orion European Service Module (SLS by DECQ)
@@ -146,7 +147,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Orion Main Parachute (SLS by DECQ)
   * Orion RCS (SLS by DECQ)
   * Orion European Service Module Solar Panels (SLS by DECQ)
-  
+
 * CST-100 Starliner
   * CST-100 Crew Module (CST-100 by Hanson Ma, Mesh Edits by Vader111)
   * CST-100 Heat Shield (CST-100 by Hanson Ma)
@@ -170,4 +171,3 @@ All the modders that used their time and considerable skills to develop the mode
   * APAS 89/95 Passive Docking Port (Bluedog Design by CobaltWolf)
   * NASA Docking System (Active) (CST-100 by Hanson Ma)
   * NASA Docking System (Passive) (CST-100 by Hanson Ma)
-  

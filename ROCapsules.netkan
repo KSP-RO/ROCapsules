@@ -13,7 +13,8 @@
         { "name" : "RealismOverhaul" },
         { "name" : "TexturesUnlimited" },
         { "name" : "BDAnimationModules" },
-        { "name" : "B9PartSwitch" }
+        { "name" : "B9PartSwitch" },
+        { "name" : "DepthMask" }
     ],
     "recommends" : [
         { "name" : "ROEngines" },
