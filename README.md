@@ -1,28 +1,31 @@
 # ROCapsules
 
 ## What is it?
+
 ROCapsules is a mod that takes the best versions of capsule models available and uses them as the in-game models for Realism Overhaul parts.
 
-
 ## Why is it needed?
+
 Historically, Realism Overhaul has been a mod that provides only config files that change the sizes and values of existing parts from stock and mods. This has allowed the mod to represent many different parts and engines that existed historically. Often, these models are only close approximation of what the real life spacecraft look like. Other times, these models are not accurate at all and are only used in order to fill a niche that is needed.
 
 Many players will typically install mods for specific spacecraft. This can lead to very large installs with parts that are unwanted just to get certain spacecraft. This will hopefully fix some of those problems by offering a single source for many spacecraft.
 
-
 ## Who deserves the credit?
+
 All the modders that used their time and considerable skills to develop the models, animations and textures that you see represented in game. Each part that is included inlcudes reference to the original modder that created the part. In all situations I have respected the licenses (as far as I know) and where authors could be reached, I received permission to include them. If you find anything that you do not think should belong, please let me know and I will remove them.
 
-
 ## Dependencies
+
 * Module Manager
 * Realism Overhaul
 * B9PartSwitch
+* Textures Unlimited
 * KSPWheel (required for Dynasoar)
 * ModuleDepthMask (required for Gemini)
 * **[ROLibrary](https://github.com/KSP-RO/ROLibrary)**
 
 ## Parts Included
+
 * Apollo
   * Apollo CM (Apollo by DECQ)
   * Apollo Drogue Docking Port (Apollo by DECQ)
