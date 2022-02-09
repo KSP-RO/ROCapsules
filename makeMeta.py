@@ -51,7 +51,7 @@ avc = {
 	},
 	"KSP_VERSION_MAX": {
 		"MAJOR": "1",
-		"MINOR": "11",
+		"MINOR": "12",
 		"PATCH": "99"
 	}
 }
