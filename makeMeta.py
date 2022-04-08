@@ -39,11 +39,11 @@ avc = {
 		"PATCH" : patch,
 		"BUILD" : build
 	},
-  "KSP_VERSION" : {
-      "MAJOR": "1",
-      "MINOR": "8",
-      "PATCH": "1"
-  },
+	"KSP_VERSION" : {
+		"MAJOR": "1",
+		"MINOR": "8",
+		"PATCH": "1"
+	},
 	"KSP_VERSION_MIN": {
 		"MAJOR": "1",
 		"MINOR": "8",
@@ -56,4 +56,4 @@ avc = {
 	}
 }
 with open("ROCapsules.version", "w") as f:
-	f.write(json.dumps(avc))
+	f.write(json.dumps(avc, indent=4))
