@@ -1,27 +1,31 @@
 # ROCapsules
 
 ## What is it?
+
 ROCapsules is a mod that takes the best versions of capsule models available and uses them as the in-game models for Realism Overhaul parts.
 
-
 ## Why is it needed?
+
 Historically, Realism Overhaul has been a mod that provides only config files that change the sizes and values of existing parts from stock and mods. This has allowed the mod to represent many different parts and engines that existed historically. Often, these models are only close approximation of what the real life spacecraft look like. Other times, these models are not accurate at all and are only used in order to fill a niche that is needed.
 
 Many players will typically install mods for specific spacecraft. This can lead to very large installs with parts that are unwanted just to get certain spacecraft. This will hopefully fix some of those problems by offering a single source for many spacecraft.
 
-
 ## Who deserves the credit?
+
 All the modders that used their time and considerable skills to develop the models, animations and textures that you see represented in game. Each part that is included inlcudes reference to the original modder that created the part. In all situations I have respected the licenses (as far as I know) and where authors could be reached, I received permission to include them. If you find anything that you do not think should belong, please let me know and I will remove them.
 
-
 ## Dependencies
+
 * Module Manager
 * Realism Overhaul
 * B9PartSwitch
+* Textures Unlimited
 * KSPWheel (required for Dynasoar)
-* **[ROLibrary][link:ROLib]**
+* ModuleDepthMask (required for Gemini)
+* **[ROLibrary](https://github.com/KSP-RO/ROLibrary)**
 
 ## Parts Included
+
 * Apollo
   * Apollo CM (Apollo by DECQ)
   * Apollo Drogue Docking Port (Apollo by DECQ)
@@ -45,25 +49,47 @@ All the modders that used their time and considerable skills to develop the mode
   * Apollo Block III+ Service Module (Bluedog Design by CobaltWolf)
   * Apollo Block IV Mission Module (Bluedog Design by CobaltWolf)
   * Apollo Block V Solar Array (Bluedog Design by CobaltWolf)
-  
+
+* GE Apollo D2
+  * GE Apollo D2 Heatshield Adapter (AlternateApollo by Mcdouble)
+  * GE Apollo D2 AJ10-133-LH (AlternateApollo by Mcdouble, Mesh Edits by Vader111)
+  * GE Apollo D2 High Gain Antenna HGA (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Block I Abort Motor (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Block I Abort Motor Decoupler (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Block II Abort Motor (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Nose Cone (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Descent Module (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Drogue Docking Port (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Docking Probe (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Interstage 1 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Interstage 2 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Interstage 3 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Mission Module 1 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Mission Module 2 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Parachute Pack (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Service Module RCS Block (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Service Module (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Skirt Section 1 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Skirt Section 2 (AlternateApollo by Mcdouble)
+  * GE Apollo D2 Solar Array (AlternateApollo by Mcdouble)
+
 * Dynasoar
-  * Dynasoar Body (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Left Wing (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Right Wing (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Left Elevon (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Right Elevon (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Cockpit (X-20 Moroz by IronCretin & Well)
+  * Dynasoar Window Cover (X-20 Moroz by IronCretin & Well)
+  * Dynasoar Wing (X-20 Moroz by IronCretin & Well)
+  * Dynasoar Elevon (X-20 Moroz by IronCretin & Well)
+  * Dynasoar Rudder (X-20 Moroz by IronCretin & Well)
   * Dynasoar Front Skid (LonesomeRobots Aerospace by SilentVelcro)
   * Dynasoar Rear Skid (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Cargo Bay (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Fuel Tank (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Cabin (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Aft Bay (LonesomeRobots Aerospace by SilentVelcro)
+  * Dynasoar Cargo Bay (X-20 Moroz by IronCretin & Well)
+  * Dynasoar Cabin (X-20 Moroz by IronCretin & Well)
+  * Dynasoar Crew Tube (X-20 Moroz by IronCretin & Well)
+  * Dynasoar Equipment Compartment (X-20 Moroz by IronCretin & Well)
+  * Dynasoar Aft Bay (X-20 Moroz by IronCretin & Well)
   * Dynasoar Telemetery Antenna (LonesomeRobots Aerospace by SilentVelcro)
   * Dynasoar Docking Arm (LonesomeRobots Aerospace by SilentVelcro)
   * Dynasoar Docking Rod (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Drag Chute (LonesomeRobots Aerospace by SilentVelcro)
-  * Dynasoar Adpater (LonesomeRobots Aerospace by SilentVelcro)
-  
+
 * Gemini
   * Gemini Agena Target Vehicle Docking Port (Bluedog Design by CobaltWolf)
   * Gemini Antenna (FASA by Frizzank)
@@ -84,7 +110,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Gemini Wing Control Surface (FASA by Frizzank)
   * Gemini B Adapter Retrograde Section (Bluedog Design by CobaltWolf)
   * Gemini B Equipment Section (Bluedog Design by CobaltWolf)
- 
+
 * Big Gemini
   * Big Gemini Cabin (Bluedog Design by CobaltWolf)
   * Big Gemini Decoupler (Bluedog Design by CobaltWolf)
@@ -93,14 +119,14 @@ All the modders that used their time and considerable skills to develop the mode
   * Big Gemini LES (Bluedog Design by CobaltWolf)
   * Big Gemini MOL Docking Port (Bluedog Design by CobaltWolf)
   * Big Gemini Service Module (Bluedog Design by CobaltWolf)
-  
+
 * LEM
   * Apollo LM Ascent Stage (Apollo by DECQ)
   * Apollo LM Decoupler (Apollo by DECQ)
   * Apollo LM Descent Stage (Apollo by DECQ)
   * Apollo LM Descent Engine (Apollo by DECQ)
   * Apollo Lunar Roving Vehicle (LRV) (Apollo by DECQ)
-  
+
 * Mercury
   * Mercury-Atlas Adapter (FASA by Frizzank)
   * Mercury-Redstone Adapter (FASA by Frizzank)
@@ -112,7 +138,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Mercury RCS Roll Thrusters (FASA by Frizzank)
   * Mercury Retro Solid Rocket Pack (FASA by Frizzank)
   * Mercury Retro Strap & Decoupler (FASA by Frizzank)
-  
+
 * Orion
   * Orion Crew Module (SLS by DECQ)
   * Orion European Service Module (SLS by DECQ)
@@ -124,7 +150,7 @@ All the modders that used their time and considerable skills to develop the mode
   * Orion Main Parachute (SLS by DECQ)
   * Orion RCS (SLS by DECQ)
   * Orion European Service Module Solar Panels (SLS by DECQ)
-  
+
 * CST-100 Starliner
   * CST-100 Crew Module (CST-100 by Hanson Ma, Mesh Edits by Vader111)
   * CST-100 Heat Shield (CST-100 by Hanson Ma)
@@ -148,4 +174,3 @@ All the modders that used their time and considerable skills to develop the mode
   * APAS 89/95 Passive Docking Port (Bluedog Design by CobaltWolf)
   * NASA Docking System (Active) (CST-100 by Hanson Ma)
   * NASA Docking System (Passive) (CST-100 by Hanson Ma)
-  

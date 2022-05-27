@@ -6,25 +6,28 @@
     "name"           : "ROCapsules",
     "identifier"     : "ROCapsules",
     "abstract"       : "ROCapsules is a mod that takes the best versions of capsules available and uses them as the in-game models for Realism Overhaul parts.",
-	"author"     	 : "pap1723",
+    "author"         : "pap1723,KSP-RO",
     "license"        : "CC-BY-SA",
     "release_status" : "stable",
     "depends" : [
         { "name" : "RealismOverhaul" },
-		{ "name" : "TexturesUnlimited" },
-        { "name" : "BDAnimationModules" }
+        { "name" : "TexturesUnlimited" },
+        { "name" : "ROLib" },
+        { "name" : "B9PartSwitch" },
+        { "name" : "DepthMask" },
+        { "name" : "KSPWheel" }
     ],
     "recommends" : [
-		{ "name" : "ROEngines" },
-		{ "name" : "ROTanks" },
+        { "name" : "ROEngines" },
+        { "name" : "ROTanks" },
         { "name" : "ProceduralFairings" },
         { "name" : "ProceduralParts" },
         { "name" : "MechJeb2" },
         { "name" : "RealSolarSystem" },
         { "name" : "KSCSwitcher" },
-		{ "name" : "RP-0" }
+        { "name" : "RP-0" }
     ],
-    "conflicts" :   [
+    "conflicts" : [
         { "name" : "TweakableEverything" }
     ],
     "install" : [
