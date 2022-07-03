@@ -20,13 +20,7 @@
     ],
     "recommends" : [
         { "name" : "ROEngines" },
-        { "name" : "ROTanks" },
-        { "name" : "ProceduralFairings" },
-        { "name" : "ProceduralParts" },
-        { "name" : "MechJeb2" },
-        { "name" : "RealSolarSystem" },
-        { "name" : "KSCSwitcher" },
-        { "name" : "RP-0" }
+        { "name" : "ROTanks" }
     ],
     "conflicts" : [
         { "name" : "TweakableEverything" }
