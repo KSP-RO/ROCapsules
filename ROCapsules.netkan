@@ -15,7 +15,8 @@
         { "name" : "ROLib" },
         { "name" : "B9PartSwitch" },
         { "name" : "DepthMask" },
-        { "name" : "KSPWheel" }
+        { "name" : "KSPWheel" },
+        { "name" : "BDAnimationModules" }
     ],
     "recommends" : [
         { "name" : "ROEngines" },
