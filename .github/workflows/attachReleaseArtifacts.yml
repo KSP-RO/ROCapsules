@@ -16,19 +16,32 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 100
-          
-      - name: Setup Python
-        uses: actions/setup-python@v2
-        
-      - name: Make metadata
+      - name: Get Branch
+        shell: bash
         run: |
-          python ${GITHUB_WORKSPACE}/makeMeta.py ${{ github.event.release.tag_name }}
+          releaseBranch=${{ github.event.release.target_commitish }}
+          echo "Found branch ${releaseBranch}"
+          echo "tagged_branch=${releaseBranch}" >> $GITHUB_ENV
+
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: ${{ env.tagged_branch }}
+          
+      - name: Update version file
+        uses: KSP-RO/BuildTools/update-version-file@master
+        with:
+          tag: ${{ github.event.release.tag_name }}
+          path: ${GITHUB_WORKSPACE}/GameData/ROCapsules/ROCapsules.version
         
+      - name: Update changelog file
+        uses: KSP-RO/BuildTools/process-changelog@master
+        with:
+          tag: ${{ github.event.release.tag_name }}
+          body: ${{ github.event.release.body }}
+          path: ${GITHUB_WORKSPACE}/GameData/ROCapsules/changelog.cfg
+
       - name: Assemble release
         id: assemble-release
         run: |
@@ -53,3 +66,20 @@ jobs:
           asset_name: ROCapsules-${{ github.event.release.tag_name }}.zip
           asset_content_type: application/zip
 
+      - name: Setup git config
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+            
+      - name: Commit changes
+        shell: bash
+        env:
+          TAG_STRING: ${{ github.event.release.tag_name }}
+        run: |
+          RELEASEBRANCH=${{ env.tagged_branch }}
+          git add "${GITHUB_WORKSPACE}/GameData/ROCapsules/ROCapsules.version"
+          git add "${GITHUB_WORKSPACE}/GameData/ROCapsules/changelog.cfg"
+          git commit -m "Update version to $TAG_STRING"
+          git push origin $RELEASEBRANCH
+          git tag $TAG_STRING $RELEASEBRANCH --force
+          git push origin $TAG_STRING --force

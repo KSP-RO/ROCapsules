@@ -11,11 +11,4 @@ on:
 
 jobs:
   validate-cfg-files:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 1
-      - name: Validate config files
-        uses: KSP-CKAN/KSPMMCfgParser@master
+    uses: KSP-RO/BuildTools/.github/workflows/validate-cfg-files.yml@master
