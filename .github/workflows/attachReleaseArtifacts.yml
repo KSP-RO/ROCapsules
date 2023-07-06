@@ -51,7 +51,6 @@ jobs:
           mkdir -v "${RELEASE_DIR}"
           echo "::set-output name=release-dir::${RELEASE_DIR}"
           cp -v -R "${GITHUB_WORKSPACE}/GameData" "${RELEASE_DIR}"
-          cp -v -R "${GITHUB_WORKSPACE}/ROCapsules.version" "${RELEASE_DIR}/GameData/ROCapsules/ROCapsules.version"
           cd ${RELEASE_DIR}
           zip -r ROCapsules-${{ github.event.release.tag_name }}.zip GameData
           ls -lrt -d -1 "${RELEASE_DIR}"/{*,.*}
