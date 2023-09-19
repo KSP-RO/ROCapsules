@@ -1,4 +1,4 @@
-spec_version: v1.10
+spec_version: v1.26
 $kref: '#/ckan/github/KSP-RO/ROCapsules'
 $vref: '#/ckan/ksp-avc'
 x_netkan_force_v: true
@@ -20,12 +20,18 @@ depends:
   - name: ModuleManager
   - name: RealismOverhaul
   - name: TexturesUnlimited
+    suppress_recommendations: true
   - name: ROLib
   - name: B9PartSwitch
+    suppress_recommendations: true
   - name: DepthMask
+    suppress_recommendations: true
   - name: KSPWheel
+    suppress_recommendations: true
   - name: StagedAnimation
+    suppress_recommendations: true
   - name: BDAnimationModules
+    suppress_recommendations: true
 recommends:
   - name: ROEngines
   - name: ROTanks
