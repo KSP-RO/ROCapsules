@@ -1,12 +1,12 @@
 {
     "NAME": "ROCapsules",
     "URL": "https://raw.githubusercontent.com/KSP-RO/ROCapsules/master/GameData/ROCapsules/ROCapsules.version",
-    "DOWNLOAD": "https://github.com/KSP-RO/ROCapsules/releases/download/v2.2.3.0/ROCapsules-v2.2.3.0.zip",
+    "DOWNLOAD": "https://github.com/KSP-RO/ROCapsules/releases/download/v2.2.4.0/ROCapsules-v2.2.4.0.zip",
     "HOMEPAGE": "https://github.com/KSP-RO/ROCapsules/",
     "VERSION": {
         "MAJOR": 2,
         "MINOR": 2,
-        "PATCH": 3,
+        "PATCH": 4,
         "BUILD": 0
     },
     "KSP_VERSION": {
