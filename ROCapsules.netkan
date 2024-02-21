@@ -32,6 +32,8 @@ depends:
     suppress_recommendations: true
   - name: BDAnimationModules
     suppress_recommendations: true
+  - name: SXTContinued
+    suppress_recommendations: true
 recommends:
   - name: ROEngines
   - name: ROTanks
